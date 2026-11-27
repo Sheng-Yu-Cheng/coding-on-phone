@@ -1,0 +1,10 @@
+{
+  "name": "coding-on-phone",
+  "short_name": "Code",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14161b",
+  "theme_color": "#14161b",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
